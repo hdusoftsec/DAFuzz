@@ -1,0 +1,4 @@
+info
+command
+ping
+client list

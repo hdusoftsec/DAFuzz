@@ -1,0 +1,3 @@
+ZADD sset0 1 redis
+ZADD sset0 2 mongodb
+ZRANGE sset0 0 10 WITHSCORES

@@ -1,0 +1,15 @@
+set key0 0 900 9
+123456789
+set key1 1 900 1
+a
+set key2 256 1 2
+22
+set key3 2 10 5
+abcde
+set key4 3 2 3
+ab2
+get key0
+add key5 0 2 4
+test
+gets key0 key1 key2
+delete key1

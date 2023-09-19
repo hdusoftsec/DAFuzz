@@ -1,0 +1,5 @@
+SET key0 redis
+DEL key0
+SADD key0 redis
+SADD key0 mysql
+SMEMBERS key0

@@ -1,0 +1,10 @@
+XADD mystream * name Sara surname OConnor
+XADD mystream * field1 value1 field2 value2 field3 value3
+XLEN mystream
+XRANGE mystream - +
+XADD mystream * field1 A field2 B field3 C field4 D
+XTRIM mystream MAXLEN 2
+XADD mystream * a 1
+XADD mystream * b 2
+XDEL mystream 1538561700640-0
+XREAD COUNT 2 STREAMS mystream writers 0-0 0-0

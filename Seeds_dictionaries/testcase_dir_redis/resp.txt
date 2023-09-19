@@ -1,0 +1,9 @@
+*3
+$3
+set
+$4
+key2
+$6
+value3
+set key0 hello
+DEL set0

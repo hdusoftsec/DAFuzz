@@ -1,0 +1,4 @@
+lpush list1 value1
+lpop list1
+rpush list1 value1
+rpop list1

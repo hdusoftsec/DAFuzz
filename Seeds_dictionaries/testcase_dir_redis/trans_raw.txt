@@ -1,0 +1,6 @@
+MULTI
+SET book-name "Mastering C++ in 21 days"
+GET book-name
+SADD tag "C++" "Programming" "Mastering Series"
+SMEMBERS tag
+EXEC

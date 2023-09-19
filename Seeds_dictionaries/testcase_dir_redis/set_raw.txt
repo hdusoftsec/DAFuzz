@@ -1,0 +1,3 @@
+sadd set1 value1
+scard set1
+spop set1

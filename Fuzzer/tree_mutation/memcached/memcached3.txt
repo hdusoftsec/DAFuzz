@@ -1,0 +1,18 @@
+set key0 0 900 9
+123456789
+set key1 1 900 1
+a
+set key2 256 1 2
+22
+set key3 2 10 5
+abcde
+set key4 3 2 3
+ab2
+replace key0 0 900 16
+some_other_value
+append key1 0 900 5
+redis
+prepend key2 0 900 5
+redis
+cas key3 0 900 9 2
+memcached

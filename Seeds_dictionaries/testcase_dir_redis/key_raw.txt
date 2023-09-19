@@ -1,0 +1,3 @@
+set key value
+del key
+exists key

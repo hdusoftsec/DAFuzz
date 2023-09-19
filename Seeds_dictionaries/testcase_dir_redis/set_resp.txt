@@ -1,0 +1,17 @@
+*3
+$4
+sadd
+$4
+set1
+$6
+value1
+*2
+$5
+scard
+$4
+set1
+*2
+$4
+spop
+$4
+set1

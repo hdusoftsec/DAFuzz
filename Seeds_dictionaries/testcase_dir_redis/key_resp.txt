@@ -1,0 +1,17 @@
+*3
+$3
+set
+$3
+key
+$5
+value
+*2
+$3
+del
+$3
+key
+*2
+$6
+exists
+$3
+key
