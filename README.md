@@ -16,3 +16,16 @@ USE_RAW_FORMAT=1 LD_PRELOAD=/<pathto>/desockmulti.so LD_LIBRARY_PATH=$LD_LIBRARY
 Please cite our paper if you use it in research.
 
 Zeng Y, Zhu F, Zhang S, Yang Y, Yi S, Pan Y, Xie G, Wu T. 2023. DAFuzz: data-aware fuzzing of in-memory data stores. PeerJ Computer Science 9:e1592 https://doi.org/10.7717/peerj-cs.1592
+
+bibtex
+```
+@article{Zeng:DAFuzz:2023,
+  title={DAFuzz: data-aware fuzzing of in-memory data stores},
+  author={Zeng, Yingpei and Zhu, Fengming and Zhang, Siyi and Yang, Yu and Yi, Siyu and Pan, Yufan and Xie, Guojie and Wu, Ting},
+  journal={PeerJ Computer Science},
+  volume={9},
+  pages={e1592},
+  year={2023},
+  publisher={PeerJ Inc.}
+}
+```
